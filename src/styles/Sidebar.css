@@ -1,0 +1,21 @@
+.sidebar {
+  width: 150px;
+  min-height: 100vh;
+  background-color: #191718;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.nav-item {
+  padding: 12px 16px;
+  border-bottom: 1px solid #5c5c5c;
+}
+
+.nav-item:hover {
+  background-color: #5c5c5c;
+}
