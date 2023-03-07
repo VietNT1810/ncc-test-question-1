@@ -48,3 +48,9 @@
 .content-image {
   float: left;
 }
+
+@media only screen and (max-width: 1024px) {
+  .content {
+    flex-direction: column;
+  }
+}
