@@ -2,6 +2,7 @@
   width: 150px;
   min-height: 100vh;
   background-color: #191718;
+  position: fixed;
 }
 
 .navbar {
